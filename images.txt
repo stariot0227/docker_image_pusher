@@ -1,4 +1,4 @@
 
 #支持私库
-nvidia/cuda
+_nvcr.io/nvidia/cuda:12.1.1-cudnn8-runtime-ubuntu20.04
 #支持指定架构
